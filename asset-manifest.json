@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/auth-portal/static/css/main.3adfb711.css",
+    "main.js": "/auth-portal/static/js/main.29d32556.js",
+    "static/media/photo.jpg": "/auth-portal/static/media/photo.d0001bf9eb5b9037ee73.jpg",
+    "index.html": "/auth-portal/index.html",
+    "main.3adfb711.css.map": "/auth-portal/static/css/main.3adfb711.css.map",
+    "main.29d32556.js.map": "/auth-portal/static/js/main.29d32556.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3adfb711.css",
+    "static/js/main.29d32556.js"
+  ]
+}
